@@ -14,8 +14,8 @@ protected:
 
 
 public:
-	gameManager();
-	~gameManager();
+	gameManager(); //constructor 
+	~gameManager(); //deconstructor
 
 
 
